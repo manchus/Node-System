@@ -1,0 +1,23 @@
+{
+  "name": "labo9_herrera_german",
+  "version": "1.0.0",
+  "description": "Labo German Herrera",
+  "main": "monApp.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "mongoose": "^5.10.14",
+    "nodemon": "^2.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HERRERA German",
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "node",
+    "mongo"
+  ]
+}
